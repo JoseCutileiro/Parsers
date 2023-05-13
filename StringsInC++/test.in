@@ -1,0 +1,39 @@
+#include <this_if_a_cpp_program>
+
+using namespace Jose cutileiro
+
+// Comment here
+
+String s = "This is the first string"
+
+// Another comment here
+
+"This is a string" (will not compile though)
+
+/*
+This is also a comment
+"This is not a string because is inside a comment
+*/
+
+func(String,"This is the third")
+
+// "This is not a string to because it inside a comment 2" 
+
+OUTPUT = "Expected output: 4 STRINGS"
+
+char c = 'HEY'
+char c2 = 'OI'
+
+// char c3 = 'Not'
+
+/*
+    char c4 = 'nu'
+*/
+
+
+OUTPUT_CHAR = 'Expected output: 3 chars'
+
+Not 5 --> /* "Hello youtube" */
+
+OBJECTIVES: COUNT THE NUMBER OF STRINGS IN A CPP PROGRAM (or C)
+AND PRINT THE STRINGS
